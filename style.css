@@ -169,28 +169,18 @@ main {
 
 
 
-.imagem2 {
+.imagens {
     grid-column: 1;
     margin-bottom: 50px;
     height: 350px;
     width: 450px;
 }
 
-.imagem2 img {
+.imagens img {
     height: 100%;
     width: 100%;
 }
 
-
-.imagem3 {
-    height: 350px;
-    width: 450px;   
-}
-
-.imagem3 img {
-    height: 100%;
-    width: 100%;
-}
 
 .caixa {
     margin-top: 100px;
